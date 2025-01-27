@@ -33,7 +33,7 @@ Welcome to my **Cricket Game Simulation** project! This is my first programming 
   - `<string>`: For managing player names and team data.
 
 ## Getting Started 🖥️
-1. Clone this repository: https://github.com/huzaifa1947/CEP.git
+1. Clone this repository: https://github.com/codifyhuzaifa/CEP.git
 2. Navigate to the project directory: cd CEP
 3. Compile the code using a C++ compiler: g++ cricket_game.cpp -o cricket_game
 4. Run the program: ./cricket_game
